@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #fff;
+	font-family: Arial;
+	color: #7B3888;
+	margin: 0px;
+}
+
+.title{
+	
+	font-size: 5vw;
+	font-weight: bold;
+	margin-top: 29px;
+	margin-left: 39px;
+	
+}
+.navBar{
+	
+	background-color: #7B3888;
+	color: #fff;
+	list-style-type: none;
+	margin: 0px;
+	margin-top: 30px;
+	padding: 0px;
+	font-size: 2.5vw;
+	font-weight: bold;
+	
+}
+
+.navBar li{
+	
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	padding-left: 15px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.navBar li:first-child{
+	
+	margin-left: 29px;
+}
+.content{
+	text-align: center;
+}
+.titleRate{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 3vw;
+	color: #707070;
+	font-weight: bold;
+}
